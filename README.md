@@ -4,8 +4,6 @@ A modern and fully responsive single-page website concept for "THX Digital," a f
 
 ### ✨ [View the Live Demo](https://soustern.github.io/THX-Digital/)
 
-![THX Digital Website Screenshot](./assets/images/project_image.PNG)
-
 ## Key Features
 
 *   **Fully Responsive Design:** A mobile-first design ensures a seamless experience on all devices, featuring a collapsible hamburger menu for navigation on smaller screens.
